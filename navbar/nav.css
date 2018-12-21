@@ -1,0 +1,15 @@
+.info li a{
+    list-style: none;
+    /* float: right; */
+    /* color:firebrick; */
+    /* word-spacing: 10px; */
+    float:right;
+    padding-right: 10px;
+    color:gray;
+    font-size:12px;
+}
+.info li{
+    list-style: none;
+    word-spacing: 10px;
+    /* float:right; */
+}
